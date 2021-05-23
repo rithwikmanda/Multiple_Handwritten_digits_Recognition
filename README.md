@@ -12,8 +12,8 @@
 # About Project
 
 * Trained model on MNIST dataset Using CNN.
-* Save model as 'mnist.h5' 
 * Save model training as train_digit_recognizer.py 
+* Save model as 'mnist.h5' 
 * Using tkinter GUI make a canvas and write digit on it
 * Using PIL get a copy of Handwritten Digits on the canvas.
 * Also with the help of OpenCV by recognizing contours it can handle multiple digits
